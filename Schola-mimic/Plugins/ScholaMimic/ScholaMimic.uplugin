@@ -1,0 +1,17 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "0.1.0",
+    "FriendlyName": "Schola Mimic",
+    "Description": "A minimal learning implementation of the Schola architecture.",
+    "Category": "Artificial Intelligence",
+    "CanContainContent": true,
+    "Installed": false,
+    "Modules": [
+        {
+            "Name": "ScholaMimic",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}

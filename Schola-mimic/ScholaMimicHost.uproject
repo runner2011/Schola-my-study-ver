@@ -1,0 +1,19 @@
+{
+    "FileVersion": 3,
+    "EngineAssociation": "5.7",
+    "Category": "Learning",
+    "Description": "Minimal host project for the Schola Mimic learning plugin.",
+    "Modules": [
+        {
+            "Name": "ScholaMimicHost",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ],
+    "Plugins": [
+        {
+            "Name": "ScholaMimic",
+            "Enabled": true
+        }
+    ]
+}
